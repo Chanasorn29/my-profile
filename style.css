@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: flex-start; /* ไม่ให้ทุกอย่างอยู่ตรงกลาง */
   height: 100vh;
-  color: #333; /* ใช้สีตัวอักษรดำ */
+  color: #727272; /* ใช้สีตัวอักษรดำ */
 }
 
 /* กำหนดรูปลักษณ์ของโปรไฟล์ */
